@@ -1,0 +1,1 @@
+O Projeto do clone do tinder utilizou o react, express, mongodb, e nodejs. Além disso, foi utilizado o firebase, heroku e o axios se conectar com o banco e deixar o projeto no ar. Para utilizar o Tinder-Clone, é necessário inserir as pessoas que aparecerão na função swap do tinder no mongodb.
