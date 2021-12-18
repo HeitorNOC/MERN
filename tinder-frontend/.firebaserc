@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "" // Seu projeto do firebase
+  }
+}
